@@ -63,6 +63,8 @@ h2 {
     font-family: var(--fonte-titulo);
     color: var(--cor-primaria);
     text-align: center;
+    padding: inline end 400px;
+    ;
 }
 
 /* Sections e parágrafos */
