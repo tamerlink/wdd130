@@ -117,7 +117,7 @@ h1 {
 .hero article img {
     float: right;
     width: 125px;
-    height: auto;
+    height: 68px;
     object-fit: cover;
     margin-left: 10px;
 }
